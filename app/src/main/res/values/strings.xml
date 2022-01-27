@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMemoPartTwo</string>
+    <string name="All">ALL</string>
+    <string name="Personal">PERSONAL</string>
+    <string name="Shopping_List">SHOPPING_LIST</string>
+    <string name="Event">EVENT</string>
+    <string name="Sport">SPORT</string>
+</resources>
